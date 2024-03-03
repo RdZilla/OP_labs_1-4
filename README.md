@@ -11,6 +11,6 @@ A project on the discipline **"Optimization methods"**. The project includes 4 p
   - _The method of gradient descent with a constant step_.
 - _Lab_3_: "Numerical methods of multidimensional optimization (second-order methods)". A console application using the ***"colorama"*** library to create colored text in the terminal.
   - _Newton's method_.
-- _Lab_4_: "Numerical methods of conditional optimization". A console application using the "sympy" library for symbolic calculations.
+- _Lab_4_: "Numerical methods of conditional optimization". A console application using the ***"sympy"*** library for symbolic calculations.
   - _The penalty method_;
   - _Barrier function method_.
